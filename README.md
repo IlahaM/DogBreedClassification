@@ -18,6 +18,14 @@ If a human is detected in the image, it identifies the breed that he/she is most
 ## Files in the repository 
 dog_app.ipny – notebook file containing the main code used to detect the breed of the dog
 
+## Datasets
+
+Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  
+
+Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).   
+
+Donwload the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset. 
+
 ## Summary of the results of the analysis 
 Different pre-trained CNN models are used to detect the dog breeds. The last tested model has the accuracy of 78.5%.
 
