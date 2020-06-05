@@ -18,7 +18,7 @@ dog_app.ipny – notebook file containing the main code used to detect the breed
 Different pre-trained CNN models are used to detect the dog breeds. The last tested model has the accuracy of 78.5%.
 
 ## Acknowledgements 
-Starter code was provided by [Udacity](https://www.udacity.com/)
+Starter code was provided by [Udacity](https://www.udacity.com/).
 
 ## Summary of the results of the analysis
 This is the [link](https://medium.com/@ilahamanaf/dog-breed-classification-using-cnn-55ed6bd611cf) to the blog post on Medium.
