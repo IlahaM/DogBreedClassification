@@ -2,9 +2,13 @@
 
 ## Libraries used
 Numpy
+
 OpenCV
+
 Matplotlib
+
 ResNet50 
+
 InceptionV3 etc.
 
 ## Motivation for the project 
