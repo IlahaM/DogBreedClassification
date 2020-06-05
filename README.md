@@ -26,3 +26,4 @@ Starter code was provided by [Udacity](https://www.udacity.com/).
 
 ## Summary of the results of the analysis
 This is the [link](https://medium.com/@ilahamanaf/dog-breed-classification-using-cnn-55ed6bd611cf) to the blog post on Medium.
+
